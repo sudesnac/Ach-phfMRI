@@ -30,7 +30,7 @@ Text files (.txt) tables that can be used as the input files for running meta-an
 ## Notebook
 
 ### spin-tests.ipynb
-The jupyter notebook for running the codes to transform the nii data into cortical surface data, run spin tests analyses, and create the figures used in this paper.\
+The jupyter notebook for running the codes to transform the nii data into cortical surface data, run spin tests analyses, and create the figures used in this paper.
 ### Visualize_MACM.ipynb
 The jupyter notebook to load the MNI coordinates of the meta-analysis and visualize in 3D glass brain (saved as .html files in figures).
 
