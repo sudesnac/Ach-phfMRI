@@ -37,8 +37,10 @@ The jupyter notebook to load the MNI coordinates of the meta-analysis and visual
 
 ## Results
 
-This folder contains the csv files of cortical surface converted and rescaled meta-analysis connectivity maps (both rescaled whole brain and parcellated rescaled). 
-as well as the csv files from the results of [Human Basal Forebrain (BF) Multimodal Connectivity](https://github.com/sudesnac/HumanBF-Connectivity).
+This folder contains the csv files: \
+**parc_rescaled_all_data.csv** and **rescaled_whole_brain_data.csv**: parcellated (parc_) and whole brain rescaled (rescaled_) result data of [Human Basal Forebrain (BF) Multimodal Connectivity](https://github.com/sudesnac/HumanBF-Connectivity) used for spin test in this paper. \
+**parc_rescaled_ALE_data.csv** and **rescaled_whole_brain_ALE_data.csv**: parcellated (parc_) and whole brain (rescaled_) cortical surface converted and rescaled meta-analysis connectivity maps data. \
+**{*}_MNI.csv** : MNI coordinates of meta-analysis results used to create 3D glass brain visualization.
 
 ## figures
 
