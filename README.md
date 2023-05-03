@@ -23,7 +23,7 @@ Text files (.txt) tables that can be used as the input files for running meta-an
 
 ## Notebook: spin-tests.ipynb
 
-The notebook folder contains the jupyter notebook for running the codes to transform the nii data to cortical surface data, spin tests analysses, and creating the figures used in this paper.\
+The notebook folder contains the jupyter notebook for running the codes to transform the nii data to cortical surface data, spin tests analysses, and creating the figures used in this paper.
 
 ### Results
 
