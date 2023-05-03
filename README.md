@@ -6,14 +6,6 @@ This repository contains codes and data in support of the paper (tentative) "Pha
 
 {Link to preprint DOI, publication DOI once it's ready...}
 
-## Prerequisites
-
-BF roi used is included in the data folder. This roi is created based on the [probabilistic atlas](https://pubmed.ncbi.nlm.nih.gov/18585468/).
-All diffusion and functional data used for this study is downloded from [Human Connectome (HCP) project](http://www.humanconnectomeproject.org/).
-The structural (diffusion) connectivity matrix is created using this [workflow](https://github.com/sudesnac/diffparc-smk). 
-The functional connectivity matrix is created using this [workflow](https://github.com/khanlab/subcorticalparc-smk).
-These workflow will create a .npz file containing all subject's connectivity matrices - the files should be placed in the data folder for running the analyses provided in the notebook. 
-
 ## Data
 
 Contains the following data file necessary to run the analysis provided in the notebooks.\
