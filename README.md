@@ -21,14 +21,15 @@ Reference surface for fsa-10k can be downloaded from [here](https://github.com/M
 
 Text files (.txt) tables that can be used as the input files for running meta-analysis using [gingerALE](http://www.brainmap.org/ale/). 
 
-## Notebook: spin-tests.ipynb
+## Notebook
 
+### spin-tests.ipynb
 The notebook folder contains the jupyter notebook for running the codes to transform the nii data to cortical surface data, spin tests analysses, and creating the figures used in this paper.
 
-### Results
+## Results
 
 This folder contains the csv files of cortical surface converted and rescaled meta-analysis connectivity maps (both rescaled whole brain and parcellated rescaled), as well as the csv files from the results of [Human Basal Forebrain (BF) Multimodal Connectivity](https://github.com/sudesnac/HumanBF-Connectivity).
 
-### figures
+## figures
 
 This folder contains the figures created.
