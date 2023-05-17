@@ -20,7 +20,7 @@ Reference surface for fsa-10k can be downloaded from [here](https://github.com/M
 *AG_decrease_18apr2023_C05_5k_ALE.nii* : [add specifics] \
 *AG_decrease_18apr2023_MACM_{C05_5k_ALE,Z}.nii* : [add specifics] \
 *AG_merge_18apr2023_MACM_{C05_5k_ALE,Z}.nii* : [add specifics] \
-*{NbM,NbMSep}_18apr2023_MACM_Z.nii*: [add specifics]
+*{NbM,NbMSep}_18apr2023_MACM_Z.nii*: [add specifics] \
 *AG_increase_18apr2023_C05_5k_clust_d3.nii*: [add specifics] \
 *AG_decrease_18apr2023_C05_5k_clust_d3.nii*: [add specifics]
 
