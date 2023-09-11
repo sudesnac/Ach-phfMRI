@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/630065755.svg)](https://zenodo.org/badge/latestdoi/630065755)
+
 # Ach-phfMRI
 
 This repository contains codes and data in support of the paper (tentative) "Pharmacological meta-analysis of cholinergic modulation on attention" 
