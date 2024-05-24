@@ -10,7 +10,7 @@ This repository contains codes and data in support of the paper (tentative) "Pha
 
 ## Data
 
-Contains the following data file necessary to run the analysis provided in the notebooks.\
+Contains the following data file necessary to run the analysis provided in the notebooks.
 | **Data**                         | **File**                                                                            | **Description**                                                                                                                                                                                                                                         |
 |----------------------------------|-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | HCP-MMP1 annot files             | `{lh,rh}_HCP-MMP1_fsa10.annot`                                                      | HCP-MMP1 parcellation annotation files in fsa-10k space for [brainspace](https://brainspace.readthedocs.io/en/stable/index.html) visualization.                                                                                                         |
