@@ -6,7 +6,7 @@ This repository contains codes and data in support of the paper (tentative) "Pha
 
 ## Publications
 
-{Link to preprint DOI, publication DOI once it's ready...}
+[Focal acetylcholinergic modulation of the human midcingulo-insular network during attention: Meta-analytic neuroimaging and behavioral evidence](https://onlinelibrary.wiley.com/doi/full/10.1111/jnc.15990)
 
 ## Data
 
